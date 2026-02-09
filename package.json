@@ -1,0 +1,20 @@
+{
+  "name": "api-monitor-backend",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/roshanpatil2000/API-Monitor-Backend#readme",
+  "bugs": {
+    "url": "https://github.com/roshanpatil2000/API-Monitor-Backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roshanpatil2000/API-Monitor-Backend.git"
+  },
+  "license": "ISC",
+  "author": "Roshan Patil",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
